@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouterTestFramework", "RouterTestFramework\RouterTestFramework.csproj", "{8067B093-95FF-46A4-B551-8B2E9DBEFD67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1150E344-053F-420A-B5BC-A2477A5BECBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{7B308B98-5FCC-46F8-8D9F-DDB9676B1992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8067B093-95FF-46A4-B551-8B2E9DBEFD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8067B093-95FF-46A4-B551-8B2E9DBEFD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8067B093-95FF-46A4-B551-8B2E9DBEFD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8067B093-95FF-46A4-B551-8B2E9DBEFD67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1150E344-053F-420A-B5BC-A2477A5BECBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1150E344-053F-420A-B5BC-A2477A5BECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1150E344-053F-420A-B5BC-A2477A5BECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1150E344-053F-420A-B5BC-A2477A5BECBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B308B98-5FCC-46F8-8D9F-DDB9676B1992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B308B98-5FCC-46F8-8D9F-DDB9676B1992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B308B98-5FCC-46F8-8D9F-DDB9676B1992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B308B98-5FCC-46F8-8D9F-DDB9676B1992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
